@@ -1,4 +1,4 @@
-# README: API and NLP Project
+# README: API and NLP Project (Reddit)
 #### Author: Carlos Wilwayco
 
 ## Problem Statement
