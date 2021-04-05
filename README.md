@@ -1,4 +1,4 @@
-# README: WEB APIs and NLP Project
+# README: API and NLP Project
 #### Author: Carlos Wilwayco
 
 ## Problem Statement
